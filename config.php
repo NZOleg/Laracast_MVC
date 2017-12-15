@@ -3,8 +3,8 @@
 return [
   'database' => [
       'name' => 'mytodo',
-      'username' => 'olegok',
-      'password' => 'StrongMan3',
+      'username' => 'root',
+      'password' => '',
       'connection' => 'mysql:host=127.0.01',
       'options' => [
 
